@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbhiNaik988
-- 👀 I’m interested in dart, flutter and java
+- 👀 I’m interested in java, dart,flutter,angular,typescript
 - 🌱 I’m currently learning dart and flutter
 - 📫 You can reach me at abhinaik988@gmail.com
 
