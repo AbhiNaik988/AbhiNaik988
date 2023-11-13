@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhiNaik988
 - 👀 I’m interested in java, dart,flutter,angular,typescript
-- 🌱 I’m currently learning dart and flutter
+- 🌱 I’m currently learning java, angular and typescript.
 - 📫 You can reach me at abhinaik988@gmail.com
 
 <!---
